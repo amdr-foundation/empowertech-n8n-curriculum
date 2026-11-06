@@ -2,7 +2,7 @@
 
 Course repository for the AMDR Foundation's flagship n8n course: an 8-week, 30-hour instructor-led cohort that takes non-technical adult learners and enterprise staff from a first scheduled workflow to AI chains, an agent with a human approval step, and a documented, production-ready capstone.
 
-**Organisation:** AMDR Foundation Inc, a 501(c)(3) public charity in Atlanta, Georgia, delivering in Atlanta and Kingston, Jamaica. https://amdrfoundation.org
+**Organisation:** AMDR Foundation Inc, a 501(c)(3) public charity in Atlanta, Georgia, teaching learners in Georgia and across the United States online. Cohorts are also open to learners in Jamaica and the Caribbean. https://amdrfoundation.org
 **Lead instructor:** Alicia Graham, n8n Ambassador (Atlanta and Jamaica), verified n8n Creator.
 **Contact:** alicia@amdrfoundation.org
 
